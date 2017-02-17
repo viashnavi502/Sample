@@ -1,2 +1,3 @@
-dding readme file to gitHub
+adding readme file to gitHub
 
+change from gitHub
